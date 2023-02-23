@@ -1,7 +1,7 @@
 /* font importing */
 @font-face {
     font-family: lucida;
-    src: url("../assets/fonts/LBRITE.TTF");
+    src: url("../fonts/LBRITE.TTF");
 }
 
 /* global variables */
