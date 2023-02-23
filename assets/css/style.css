@@ -345,6 +345,8 @@ main.contact-page form.contact-form .contact-form-box {
 main.contact-page form.contact-form .contact-form-box textarea#msg { grid-column: 1/3;}
 span.mark { color: red; }
 
+input.action-btn {cursor: pointer;}
+
 /* success form page styling */
 
 main.form-success .sub-title {
